@@ -16,6 +16,7 @@ var allUsers = (req, res) => {
 
 var addUsers = (req, res) => {
   console.log(req.body);
+
   //   res.send({ msg: "userController post msg" });
 };
 
